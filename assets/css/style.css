@@ -11,6 +11,8 @@
 /*Home */
 @import './css-parts/home/introducao.css';
 @import './css-parts/home/tecnologia.css';
+@import './css-parts/home/parceiros.css';
+@import './css-parts/home/depoimento.css';
 
 /*Bicicletas*/
 @import './css-parts/bicicletas/bicicletas-listas.css';
